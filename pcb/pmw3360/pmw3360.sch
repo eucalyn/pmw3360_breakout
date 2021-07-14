@@ -487,9 +487,9 @@ F 3 "" H 4600 3900 50  0001 C CNN
 	1    4600 3900
 	1    0    0    -1  
 $EndComp
-Text Label 3300 4700 0    50   ~ 0
+Text Label 3300 4300 0    50   ~ 0
 MOT-H
-Text Label 2500 4700 2    50   ~ 0
+Text Label 2500 4300 2    50   ~ 0
 MOT
 $Comp
 L power:GND #PWR019
@@ -517,17 +517,17 @@ Text Label 5100 4300 0    50   ~ 0
 MISO
 Text Label 2500 4900 2    50   ~ 0
 MOSI
-Text Label 2500 4500 2    50   ~ 0
+Text Label 2500 4700 2    50   ~ 0
 SCLK
-Text Label 2500 4300 2    50   ~ 0
+Text Label 2500 4500 2    50   ~ 0
 SS
 Text Label 3300 4900 0    50   ~ 0
 MOSI-H
-Text Label 3300 4500 0    50   ~ 0
+Text Label 3300 4700 0    50   ~ 0
 SCLK-H
 Text Label 4300 4300 2    50   ~ 0
 MISO-H
-Text Label 3300 4300 0    50   ~ 0
+Text Label 3300 4500 0    50   ~ 0
 SS-H
 $Comp
 L power:VDD #PWR014
