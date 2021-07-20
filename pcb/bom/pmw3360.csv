@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"4.7uF","C1","Capacitor_SMD:C_0603_1608Metric","C19666"
+"0.1uF","C2,C5,C6","Capacitor_SMD:C_0603_1608Metric","C14663"
+"1uF","C3,C4","Capacitor_SMD:C_0603_1608Metric","C15849"
+"Connector","J1","Connector_Hirose:Hirose_DF13-07P-1.25DS_1x07_P1.25mm_Horizontal",""
+"PinOut","J2","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical",""
+"JP_Open","JP1","Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm",""
+"39R","R1","Resistor_SMD:R_0603_1608Metric","C23154"
+"10k","R2,R3","Resistor_SMD:R_0603_1608Metric","C25804"
+"PMW3360DM-T2QU","U1","PMW3360:PMW3360",""
+"TCR2EF19,LM(CT","U2","PMW3360:SOT25","C146366"
+"SN74LVC1T45QDCKRQ1","U3","Package_TO_SOT_SMD:SOT-363_SC-70-6","C139353"
+"TXB0104RUT","U4","Package_DFN_QFN:Texas_R_PUQFN-N12","C105266"
